@@ -31,7 +31,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Warrior
-        subtitle: Optional subtitle
+        subtitle: For power users and growth companies.
         title_align: left
         content: |-
           ---
