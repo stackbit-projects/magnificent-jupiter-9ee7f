@@ -77,10 +77,9 @@ sections:
         media_position: right
         media_width: fifty
       - title: Work with your team
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We are product experts that work directly with your team to define
+          requirements and ship software.
         actions:
           - label: Learn More
             url: /style-guide
