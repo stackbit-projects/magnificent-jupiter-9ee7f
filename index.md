@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Perpetua Growth
-    subtitle: Optional hero section subtitle
+    subtitle: Your technology partner.
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
