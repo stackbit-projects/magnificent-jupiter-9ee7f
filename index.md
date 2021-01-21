@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: Perpetua Growth
     subtitle: Your technology partner.
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-      ligula, cursus id molestie vel.
+    content: >
+      Companies adapting to the digital revolution need a trusted partner in
+      technology. We are business people first and support your growth with
+      modern software and services.
     actions:
       - label: Try Free
         url: /pricing
