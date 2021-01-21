@@ -53,7 +53,7 @@ sections:
         actions_align: left
         actions_width: full-width
       - title: Enterprise
-        subtitle: Optional subtitle
+        subtitle: Expanded benefits for higher demands.
         title_align: left
         content: |-
           ---
