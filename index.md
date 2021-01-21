@@ -24,7 +24,7 @@ sections:
     padding_bottom: large
     background_color: primary
   - type: grid_section
-    title: Image Grid
+    title: Our Specialties
     subtitle: Grid Section Example
     align: center
     grid_items:
