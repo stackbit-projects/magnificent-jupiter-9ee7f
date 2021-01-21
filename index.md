@@ -125,7 +125,7 @@ sections:
     feature_padding_vert: small
     background_color: primary
   - type: grid_section
-    title: Cards Grid Section
+    title: Our Services
     subtitle: Our Services
     grid_items:
       - title: Section Item 1
