@@ -170,10 +170,11 @@ sections:
         image_has_padding: true
       - title: Future Proofing
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We understand you are experts in your field, whether that is building
+          materials, industrial supplies, or manufacturing. We are the computer
+          nerds at your service. We help you future-proof your business so you
+          are adapted to changes in the market.
         content_align: left
         actions:
           - label: Learn More
