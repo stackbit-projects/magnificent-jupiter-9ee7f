@@ -174,7 +174,8 @@ sections:
           We understand you are experts in your field, whether that is building
           materials, industrial supplies, or manufacturing. We are the computer
           nerds at your service. We help you future-proof your business so you
-          are adapted to changes in the market.
+          are adapted to changes in the market. At the end of the day, we want
+          to help make you more money.
         content_align: left
         actions:
           - label: Learn More
