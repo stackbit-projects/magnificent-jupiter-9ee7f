@@ -10,7 +10,7 @@ sections:
   - type: grid_section
     grid_items:
       - title: Wizard
-        subtitle: Optional subtitle
+        subtitle: For starting your digital team.
         title_align: left
         content: |-
           ---
