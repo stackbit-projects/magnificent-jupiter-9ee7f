@@ -33,18 +33,38 @@ sections:
       - title: Warrior
         subtitle: For power users and growth companies.
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $19
+          Starting at $8100
 
-          per month, billed yearly
+          per month; $24300 billed quarterly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Fringilla diam magnis libero lacinia
-          * Litora primis facilisis ullamcorper per
+          *   Point project manager
+
+          *   Web design & technical team
+
+          *   Unlimited revisions & edits
+
+          *   Unlimited sites
+
+          *   World-class business hosting
+
+          *   Wordpress included
+
+          *   Download source files & static assets
+
+          *   Custom illustrations
+
+          *   Advanced animations
+
+          *   1-3 days avg. turnaround
+
+          *   Priority support + sameday
+
+          *   Up to 5 brand profiles
+
+          *   5 custom domains
         content_align: left
         actions:
           - label: Start with Premium
