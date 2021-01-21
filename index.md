@@ -148,7 +148,7 @@ sections:
         image_position: top
         image_align: left
         image_has_padding: true
-      - title: Section Item 2
+      - title: Modern Technologies
         title_align: left
         content: >
           We carefully vet all of our technology partners so we are only working
