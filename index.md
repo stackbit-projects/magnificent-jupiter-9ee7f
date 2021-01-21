@@ -150,10 +150,10 @@ sections:
         image_has_padding: true
       - title: Section Item 2
         title_align: left
-        content: >-
-          Ac felis donec et odio pellentesque. Sagittis vitae et leo duis ut
-          diam quam nulla. Ullamcorper a lacus vestibulum sed arcu non odio
-          euismod lacinia.
+        content: >
+          We carefully vet all of our technology partners so we are only working
+          with technologies that will stand the test of time. Ask us about prior
+          projects.
         content_align: left
         actions:
           - label: Learn More
