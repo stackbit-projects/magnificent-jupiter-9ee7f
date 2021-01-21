@@ -3,7 +3,7 @@ title: Pricing
 sections:
   - type: hero_section
     title: Engagements
-    subtitle: Optional hero section subtitle
+    subtitle: Work with us.
     align: center
     padding_top: large
     padding_bottom: small
