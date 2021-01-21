@@ -53,7 +53,7 @@ sections:
         content: |
           ***
 
-          Starting at $8100
+          ##### **Starting at $8100**
 
           per month; $24300 billed quarterly
 
