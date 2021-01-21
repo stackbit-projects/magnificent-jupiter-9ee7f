@@ -130,10 +130,10 @@ sections:
     grid_items:
       - title: 24/7 Support
         title_align: left
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          With every contract, we provide a dedicated technology hotline which
+          means we will reply to any and every request you have no matter the
+          hour of the day. 
         content_align: left
         actions:
           - label: Learn More
