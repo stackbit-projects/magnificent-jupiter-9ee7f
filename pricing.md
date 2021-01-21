@@ -55,18 +55,30 @@ sections:
       - title: Enterprise
         subtitle: Expanded benefits for higher demands.
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $39
+          ### Starting at $8100
 
-          per month, billed yearly
+          per month, $24300 billed quarterly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
-          * Feugiat porta tortor
+          *   Point project manager
+
+          *   Web design & technical team
+
+          *   Unlimited revisions & edits
+
+          *   World-class business hosting
+
+          *   1-3 days avg. turnaround
+
+          *   Priority support + sameday
+
+          *   24/7 support
+
+          *   Up to 5 brand profiles
+
+          ![]()
         content_align: left
         actions:
           - label: Start with Business
