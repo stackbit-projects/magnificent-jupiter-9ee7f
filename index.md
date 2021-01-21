@@ -126,7 +126,7 @@ sections:
     background_color: primary
   - type: grid_section
     title: Our Services
-    subtitle: Our Services
+    subtitle: How we help
     grid_items:
       - title: Section Item 1
         title_align: left
