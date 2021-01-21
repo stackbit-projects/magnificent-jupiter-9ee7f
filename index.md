@@ -128,7 +128,7 @@ sections:
     title: Our Services
     subtitle: How we help
     grid_items:
-      - title: Section Item 1
+      - title: 24/7 Support
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
