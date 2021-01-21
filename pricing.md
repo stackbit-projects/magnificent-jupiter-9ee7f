@@ -62,6 +62,8 @@ sections:
 
           per month, $24300 billed quarterly
 
+          *   All you can ask design, dev, reporting
+
           *   Point project manager
 
           *   Web design & technical team
