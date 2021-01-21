@@ -15,7 +15,7 @@ sections:
         content: |
           ***
 
-          ### $3600
+          ##### **Starting at $3600**
 
           per month, $10800 billed quarterly
 
