@@ -117,7 +117,7 @@ sections:
           “Perpetua is fast! They are always up to date. It’s easy to
           communicate with their team across the organization, and collaboration
           is easy.”
-        subtitle: 'Brandon Guidelines, Sr. Design Manager at Company'
+        subtitle: 'Brandon Guidelines, Sr. Operations Manager at 120M Packaging Company'
         image: images/brandon-guidelines.png
         image_alt: Brandon Guidelines
         media_position: right
