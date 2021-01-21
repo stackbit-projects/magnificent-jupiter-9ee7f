@@ -12,17 +12,34 @@ sections:
       - title: Wizard
         subtitle: For starting your digital team.
         title_align: left
-        content: |-
-          ---
+        content: |
+          ***
 
-          ### $9
+          ### $3600
 
-          per month, billed yearly
+          per month, $10800 billed quarterly
 
-          * Et semper leo mattis orci conubia congue
-          * Quisque eleifend imperdiet tortor
-          * Elementum eu rhoncus, volutpat
-          * Nisi cubilia interdum ultricies
+          *   Point project manager
+
+          *   Web design & technical team
+
+          *   Unlimited revisions & edits
+
+          *   Unlimited sites
+
+          *   World-class business hosting
+
+          *   Wordpress included
+
+          *   Download source files & static assets
+
+          *   2-5 days avg. turnaround
+
+          *   Standard support
+
+          *   Up to 2 brand profiles
+
+          *   2 custom domains
         content_align: left
         actions:
           - label: Start with Personal
