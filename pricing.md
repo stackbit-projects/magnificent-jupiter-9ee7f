@@ -55,30 +55,17 @@ sections:
       - title: Enterprise
         subtitle: Expanded benefits for higher demands.
         title_align: left
-        content: |
+        content: >
           ***
 
-          ### Starting at $8100
 
-          per month, $24300 billed quarterly
+          ### Email Sales
 
-          *   All you can ask design, dev, reporting
 
-          *   Point project manager
+          Bigger team, more features, and expanded benefits to service higher
+          demands.
 
-          *   Web design & technical team
 
-          *   Unlimited revisions & edits
-
-          *   World-class business hosting
-
-          *   1-3 days avg. turnaround
-
-          *   Priority support + sameday
-
-          *   24/7 support
-
-          *   Up to 5 brand profiles
 
           ![]()
         content_align: left
