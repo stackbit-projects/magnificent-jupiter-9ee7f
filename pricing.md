@@ -103,7 +103,6 @@ sections:
           demands.
 
 
-
           ![]()
         content_align: left
         actions:
